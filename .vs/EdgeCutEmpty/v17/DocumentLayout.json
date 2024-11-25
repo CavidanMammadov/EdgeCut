@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\EdgeCutEmpty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48D2A339-3AB1-48DC-959C-68F7C4DDABC4}|EdgeCutEmpty\\EdgeCutEmpty.csproj|c:\\users\\user\\source\\repos\\edgecutempty\\edgecutempty\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48D2A339-3AB1-48DC-959C-68F7C4DDABC4}|EdgeCutEmpty\\EdgeCutEmpty.csproj|solutionrelative:edgecutempty\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D2A339-3AB1-48DC-959C-68F7C4DDABC4}|EdgeCutEmpty\\EdgeCutEmpty.csproj|c:\\users\\user\\source\\repos\\edgecutempty\\edgecutempty\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48D2A339-3AB1-48DC-959C-68F7C4DDABC4}|EdgeCutEmpty\\EdgeCutEmpty.csproj|solutionrelative:edgecutempty\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D2A339-3AB1-48DC-959C-68F7C4DDABC4}|EdgeCutEmpty\\EdgeCutEmpty.csproj|c:\\users\\user\\source\\repos\\edgecutempty\\edgecutempty\\views\\home\\furniture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48D2A339-3AB1-48DC-959C-68F7C4DDABC4}|EdgeCutEmpty\\EdgeCutEmpty.csproj|solutionrelative:edgecutempty\\views\\home\\furniture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D2A339-3AB1-48DC-959C-68F7C4DDABC4}|EdgeCutEmpty\\EdgeCutEmpty.csproj|c:\\users\\user\\source\\repos\\edgecutempty\\edgecutempty\\views\\home\\blogs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48D2A339-3AB1-48DC-959C-68F7C4DDABC4}|EdgeCutEmpty\\EdgeCutEmpty.csproj|solutionrelative:edgecutempty\\views\\home\\blogs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D2A339-3AB1-48DC-959C-68F7C4DDABC4}|EdgeCutEmpty\\EdgeCutEmpty.csproj|c:\\users\\user\\source\\repos\\edgecutempty\\edgecutempty\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D2A339-3AB1-48DC-959C-68F7C4DDABC4}|EdgeCutEmpty\\EdgeCutEmpty.csproj|solutionrelative:edgecutempty\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D2A339-3AB1-48DC-959C-68F7C4DDABC4}|EdgeCutEmpty\\EdgeCutEmpty.csproj|c:\\users\\user\\source\\repos\\edgecutempty\\edgecutempty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D2A339-3AB1-48DC-959C-68F7C4DDABC4}|EdgeCutEmpty\\EdgeCutEmpty.csproj|solutionrelative:edgecutempty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D2A339-3AB1-48DC-959C-68F7C4DDABC4}|EdgeCutEmpty\\EdgeCutEmpty.csproj|c:\\users\\user\\source\\repos\\edgecutempty\\edgecutempty\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48D2A339-3AB1-48DC-959C-68F7C4DDABC4}|EdgeCutEmpty\\EdgeCutEmpty.csproj|solutionrelative:edgecutempty\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blogs.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EdgeCutEmpty\\EdgeCutEmpty\\Views\\Home\\Blogs.cshtml",
+              "RelativeDocumentMoniker": "EdgeCutEmpty\\Views\\Home\\Blogs.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EdgeCutEmpty\\EdgeCutEmpty\\Views\\Home\\Blogs.cshtml",
+              "RelativeToolTip": "EdgeCutEmpty\\Views\\Home\\Blogs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T22:26:11.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Furniture.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EdgeCutEmpty\\EdgeCutEmpty\\Views\\Home\\Furniture.cshtml",
+              "RelativeDocumentMoniker": "EdgeCutEmpty\\Views\\Home\\Furniture.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EdgeCutEmpty\\EdgeCutEmpty\\Views\\Home\\Furniture.cshtml",
+              "RelativeToolTip": "EdgeCutEmpty\\Views\\Home\\Furniture.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T22:22:08.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EdgeCutEmpty\\EdgeCutEmpty\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EdgeCutEmpty\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EdgeCutEmpty\\EdgeCutEmpty\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EdgeCutEmpty\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T15:33:03.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EdgeCutEmpty\\EdgeCutEmpty\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "EdgeCutEmpty\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EdgeCutEmpty\\EdgeCutEmpty\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "EdgeCutEmpty\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T15:30:59.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EdgeCutEmpty\\EdgeCutEmpty\\Program.cs",
+              "RelativeDocumentMoniker": "EdgeCutEmpty\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EdgeCutEmpty\\EdgeCutEmpty\\Program.cs",
+              "RelativeToolTip": "EdgeCutEmpty\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:13:16.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EdgeCutEmpty\\EdgeCutEmpty\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EdgeCutEmpty\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EdgeCutEmpty\\EdgeCutEmpty\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EdgeCutEmpty\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkBAAAAAAAAAAAAAFQBAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T15:09:22.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EdgeCutEmpty\\EdgeCutEmpty\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EdgeCutEmpty\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EdgeCutEmpty\\EdgeCutEmpty\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EdgeCutEmpty\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:04:46.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
